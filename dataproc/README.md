@@ -38,12 +38,17 @@ Now you can install ruby 2.2.2 or greater
 
 # Running the Software
 Once ruby 2.4.1 is installed, change to the directory containing the code.
+
 ```bash
-rbenv local```
+bash
+rbenv local
+```
 The above should say 2.4.1. If not, then run
+
 ```bash
 rbenv local 2.4.1
-rbenv rehash```
+rbenv rehash
+```
 
 And you can run the program like this:
 ```bash
