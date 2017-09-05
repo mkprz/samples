@@ -40,7 +40,6 @@ Now you can install ruby 2.2.2 or greater
 Once ruby 2.4.1 is installed, change to the directory containing the code.
 
 ```bash
-bash
 rbenv local
 ```
 The above should say 2.4.1. If not, then run
